@@ -1,7 +1,7 @@
-# 100DaysOfCode Log - Round 1 - Manoj
+# 100DaysOfCode Log - Round # - Manoj
 
-The log of my #100DaysOfCode challenge. Started on [August 23, Saturday, 2025].
-Aim: To perfect Rust or at-least get from beginner to next level in Rust.
+The log of my #100DaysOfCode challenge. Started on [Month DD, Weekday, Year].
+Aim: ??
 
 ## Log
 
