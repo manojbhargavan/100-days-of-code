@@ -7,11 +7,11 @@ Aim: To perfect Rust or at-least get from beginner to next level in Rust.
 
 ### Day 1
 
-**Today’s Progress**:
+**Today’s Progress**: Revised how to take in arguments from the command line.
 
-**Thoughts**:
+**Thoughts**: Practiced few time
 
-**Link to work**:
+**Link to work**: [github](https://github.com/manojbhargavan/practice-repo/tree/main/rust/obook)
 
 ### Day 2
 
