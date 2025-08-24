@@ -1,7 +1,7 @@
-# 100DaysOfCode Log - Round # - Manoj
+# 100DaysOfExercise Log - Round 1 - Manoj
 
-The log of my #100DaysOfCode challenge. Started on [Month DD, Weekday, Year].
-Aim: ??
+The log of my #100DaysOfExercise challenge. Started on [August 23, Saturday, 2025].
+Aim: To perfect Rust or at-least get from beginner to next level in Rust.
 
 ## Log
 

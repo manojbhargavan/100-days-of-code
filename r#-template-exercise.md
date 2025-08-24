@@ -1,17 +1,17 @@
-# 100DaysOfCode Log - Round # - Manoj
+# 100DaysOfExercise Log - Round # - Manoj
 
-The log of my #100DaysOfCode challenge. Started on [Month DD, Weekday, Year].
+The log of my #100DaysOfExercise challenge. Started on [August 24, Sunday, Year].
 Aim: ??
 
 ## Log
 
 ### Day 1
 
-**Today’s Progress**:
+**Today’s Progress**: Bike and Bell Real - Powerful HIIT Ride
 
-**Thoughts**:
+**Thoughts**: Keep at it and dont skip a day
 
-**Link to work**:
+**Link to work**: [Youtube](https://youtu.be/YB1zYVf5uhI)
 
 ### Day 2
 
