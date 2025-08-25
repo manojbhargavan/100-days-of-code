@@ -7,19 +7,19 @@ Aim: To perfect Rust or at-least get from beginner to next level in Rust.
 
 ### Day 1
 
-**Today’s Progress**: Revised how to take in arguments from the command line.
+**Today’s Progress**: Powerful HIIT Ride
 
-**Thoughts**: Practiced few time
+**Thoughts**: Need to keep exercising, body is not very flexible.
 
-**Link to work**: [github](https://github.com/manojbhargavan/practice-repo/tree/main/rust/obook)
+**Link to work**: [youtube](https://youtu.be/YB1zYVf5uhI)
 
 ### Day 2
 
-**Today’s Progress**:
+**Today’s Progress**: 30 Min Full Body + Stretch 
 
-**Thoughts**:
+**Thoughts**: Stretch is really important also need to make sure I don't miss a day, due to laziness in early morning's.
 
-**Link to work**:
+**Link to work**:[youtube](https://youtu.be/YeNPUjvh1YA)
 
 ### Day 3
 
