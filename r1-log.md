@@ -23,19 +23,19 @@ Aim: To perfect Rust or at-least get from beginner to next level in Rust.
 
 ### Day 3
 
-**Today’s Progress**:
+**Today’s Progress**: Rust web dev introduction from book
 
-**Thoughts**:
+**Thoughts**: Need to read the rust book first because this book does not seem to get me started
 
-**Link to work**:
+**Link to work**: [github](https://github.com/manojbhargavan/practice-repo/tree/main/rust/obook)
 
 ### Day 4
 
-**Today’s Progress**:
+**Today’s Progress**: Basics Videos in the night
 
-**Thoughts**:
+**Thoughts**: Will work on exercises tmrw
 
-**Link to work**:
+**Link to work**: None
 
 ### Day 5
 

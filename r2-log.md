@@ -15,7 +15,7 @@ Aim: To perfect Rust or at-least get from beginner to next level in Rust.
 
 ### Day 2
 
-**Today’s Progress**: 30 Min Full Body + Stretch 
+**Today’s Progress**: 30 Min Full Body + Stretch
 
 **Thoughts**: Stretch is really important also need to make sure I don't miss a day, due to laziness in early morning's.
 
@@ -23,19 +23,19 @@ Aim: To perfect Rust or at-least get from beginner to next level in Rust.
 
 ### Day 3
 
-**Today’s Progress**:
+**Today’s Progress**: Active Recovery Ride + 15 Minutes Stretch + Walking
 
-**Thoughts**:
+**Thoughts**: Good relaxing day, walked in evening
 
-**Link to work**:
+**Link to work**: [youtube](https://youtu.be/thlntNpSgD0), [youtube](https://youtu.be/RHFtS0m8F_A)
 
 ### Day 4
 
-**Today’s Progress**:
+**Today’s Progress**: Live Strength, Live Cycling
 
-**Thoughts**:
+**Thoughts**: Was lazy in the morning but managed to get the exercises in.
 
-**Link to work**:
+**Link to work**: [youtube - strength](https://youtube.com/live/XGMhh4Hp2UI), [youtube - cycle](https://youtube.com/live/f5UmabWqjoM)
 
 ### Day 5
 
