@@ -39,11 +39,11 @@ Aim: To perfect Rust or at-least get from beginner to next level in Rust.
 
 ### Day 5
 
-**Today’s Progress**:
+**Today’s Progress**: Rest day, did walking and 30 minutes strength
 
-**Thoughts**:
+**Thoughts**: Good to know i can push, use the negative force to remove the negative in my body. A junior at work got offered which he deserves, but I think i also deserve and no one even talks to me about anything at work. I am a push over i feel. I used this to work out.
 
-**Link to work**:
+**Link to work**: [youtube](https://www.youtube.com/watch?v=OXmo07BNEQI)
 
 ### Day 6
 

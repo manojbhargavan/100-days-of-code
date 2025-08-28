@@ -39,11 +39,11 @@ Aim: To perfect Rust or at-least get from beginner to next level in Rust.
 
 ### Day 5
 
-**Today’s Progress**:
+**Today’s Progress**: Chapter 1 & 2 of rust official book
 
-**Thoughts**:
+**Thoughts**: start early
 
-**Link to work**:
+**Link to work**: [github](https://github.com/manojbhargavan/practice-repo/tree/main/rust/projects)
 
 ### Day 6
 
