@@ -47,19 +47,19 @@ Aim: To perfect Rust or at-least get from beginner to next level in Rust.
 
 ### Day 6
 
-**Today’s Progress**:
+**Today’s Progress**: 30 Minutes Cycling and Stretch
 
-**Thoughts**:
+**Thoughts**: It was good session
 
-**Link to work**:
+**Link to work**: [youtube](https://youtu.be/MRH43MxlkUE), [youtube](https://www.youtube.com/watch?v=ONg93VZl0Ko)
 
 ### Day 7
 
-**Today’s Progress**:
+**Today’s Progress**: 30 Minutes Strength and Stretch
 
-**Thoughts**:
+**Thoughts**: Good Session but broke few time need to build strength.
 
-**Link to work**:
+**Link to work**: [youtube](https://youtu.be/xdZ-gYLT5yg?si=_u2MaUppJlVHBse4), [youtube](https://www.youtube.com/watch?v=EaowkLiLWVs)
 
 ### Day 8
 

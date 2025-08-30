@@ -47,11 +47,11 @@ Aim: To perfect Rust or at-least get from beginner to next level in Rust.
 
 ### Day 6
 
-**Today’s Progress**:
+**Today’s Progress**: Chapter 2 Practice
 
-**Thoughts**:
+**Thoughts**: start early if possible before work
 
-**Link to work**:
+**Link to work**: [github](https://github.com/manojbhargavan/practice-repo/tree/main/rust/projects)
 
 ### Day 7
 
