@@ -63,27 +63,27 @@ Aim: To perfect Rust or at-least get from beginner to next level in Rust.
 
 ### Day 8
 
-**Today’s Progress**:
+**Today’s Progress**: Chapter 3 in progress
 
-**Thoughts**:
+**Thoughts**: Very tough to concentrate
 
-**Link to work**:
+**Link to work**: [github](https://github.com/manojbhargavan/practice-repo/tree/main/rust)
 
 ### Day 9
 
-**Today’s Progress**:
+**Today’s Progress**: Chapter 3 in progress
 
-**Thoughts**:
+**Thoughts**: Very tough to concentrate
 
-**Link to work**:
+**Link to work**: [github](https://github.com/manojbhargavan/practice-repo/tree/main/rust)
 
 ### Day 10
 
-**Today’s Progress**:
+**Today’s Progress**: Chapter 3 completed, practiced ownership, borrow and slices
 
-**Thoughts**:
+**Thoughts**: Very tough to concentrate
 
-**Link to work**:
+**Link to work**: [github](https://github.com/manojbhargavan/practice-repo/tree/main/rust)
 
 ### Day 11
 

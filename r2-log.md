@@ -63,27 +63,27 @@ Aim: To perfect Rust or at-least get from beginner to next level in Rust.
 
 ### Day 8
 
-**Today’s Progress**:
+**Today’s Progress**: Lazy start but got up and did it
 
-**Thoughts**:
+**Thoughts**: Even one day gap is making me lazy.
 
-**Link to work**:
+**Link to work**: [youtube](https://www.youtube.com/watch?v=SnRJRT7HFlM)
 
 ### Day 9
 
-**Today’s Progress**:
+**Today’s Progress**: Lazy again keep going
 
-**Thoughts**:
+**Thoughts**: Same
 
-**Link to work**:
+**Link to work**: [youtube](https://youtu.be/ShW2-oi_msk)
 
 ### Day 10
 
-**Today’s Progress**:
+**Today’s Progress**: Lazy again keep going
 
-**Thoughts**:
+**Thoughts**: Same
 
-**Link to work**:
+**Link to work**: [youtube](https://youtu.be/thlntNpSgD0), [youtube](https://youtu.be/EaowkLiLWVs)
 
 ### Day 11
 
