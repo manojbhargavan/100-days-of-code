@@ -87,11 +87,11 @@ Aim: To perfect Rust or at-least get from beginner to next level in Rust.
 
 ### Day 11
 
-**Today’s Progress**:
+**Today’s Progress**: Rust Programming Essentials - Chapter 4
 
 **Thoughts**:
 
-**Link to work**:
+**Link to work**: [tut](https://learning.oreilly.com/videos/rust-programming-essentials/9780138201593/9780138201593-RPE1_01_05_01/)
 
 ### Day 12
 

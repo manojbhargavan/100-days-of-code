@@ -87,11 +87,11 @@ Aim: To perfect Rust or at-least get from beginner to next level in Rust.
 
 ### Day 11
 
-**Today’s Progress**:
+**Today’s Progress**: Good Workout
 
-**Thoughts**:
+**Thoughts**: None, very tired
 
-**Link to work**:
+**Link to work**: [youtube](https://youtube.com/live/1SNkYZrYY80), [youtube](https://youtube.com/live/f5UmabWqjoM), [youtube](https://youtu.be/EaowkLiLWVs)
 
 ### Day 12
 
